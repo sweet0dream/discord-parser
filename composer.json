@@ -1,0 +1,6 @@
+{
+    "require": {
+        "rmccue/requests": "^2.0",
+        "stichoza/google-translate-php": "^5.1"
+    }
+}
